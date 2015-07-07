@@ -18,7 +18,7 @@ You must adopt library for your projects by yourselves, I only provide basic fun
 
 Download project from Github, with downloading zip file or using:
 ```
-git clone https://github.com/pashira/transactpro-integration-python.git
+git clone https://github.com/TransactPRO/transactpro-integration-python.git
 ```
 Use Python 2.7.
 Use pip to install requirements:
